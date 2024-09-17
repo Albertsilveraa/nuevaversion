@@ -32,7 +32,6 @@ npm install
 npm run serve
 
 
-¡Claro! Aquí tienes un ejemplo de README.md para tu proyecto en GitHub que incluye tu información personal, una descripción del proyecto y detalles técnicos:
 
 markdown
 Copiar código
